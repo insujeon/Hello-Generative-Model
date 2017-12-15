@@ -13,4 +13,5 @@
 
 ## Da3. Introduction to Generative Adversarial Networks(GAN)
 #### 1) GAN, DCGAN - [GunhoChoi/PyTorch-FastCampus](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN)
+#### 1) GAN, DCGAN ver2 -[yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial
 
