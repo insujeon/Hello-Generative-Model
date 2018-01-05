@@ -11,7 +11,10 @@
 #### 1) Variational Coin Toss - [original blog](http://www.openias.org/variational-coin-toss)
 #### 2) AutoEncoder, Varitional AutoEncoder - [GunhoChoi/PyTorch-FastCampus](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/08_Autoencoder)
 
-## Da3. Introduction to Generative Adversarial Networks(GAN)
+## Day3. Introduction to Generative Adversarial Networks(GAN)
 #### 1) GAN, DCGAN - [GunhoChoi/PyTorch-FastCampus](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN)
-#### 1) GAN, DCGAN ver2 -[yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+#### 2) GAN, DCGAN ver2 -[yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
 
+## Day4. Improved GAN
+#### 1) infoGAN
+#### 2) WGAN
