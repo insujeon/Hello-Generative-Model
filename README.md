@@ -18,3 +18,4 @@
 ## Day4. Improved GAN
 #### 1) infoGAN
 #### 2) WGAN
+#### Checkout Generative Model Collection [Here](https://github.com/znxlwm/pytorch-generative-model-collections)
