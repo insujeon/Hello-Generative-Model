@@ -19,3 +19,7 @@
 #### 1) infoGAN
 #### 2) WGAN
 #### Checkout Other Generative Model Collections [Here](https://github.com/znxlwm/pytorch-generative-model-collections)
+
+## Day5. Improved VAE
+#### 1) CVAE
+#### 2) AAE
