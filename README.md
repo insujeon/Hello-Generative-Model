@@ -23,3 +23,6 @@
 ## Day5. Improved VAE
 #### 1) CVAE
 #### 2) AAE
+
+## Day6. Application Generative Model
+#### 1) CycleGAN
