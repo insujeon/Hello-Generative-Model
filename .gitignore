@@ -11,3 +11,9 @@ tmp
 dataset
 datasets
 __pycache__
+
+# 1Konny
+workroom
+*_model
+*_results
+
