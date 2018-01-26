@@ -26,3 +26,8 @@
 
 ## Day6. Application Generative Model
 #### 1) CycleGAN [original code](https://github.com/togheppi/CycleGAN)
+
+## Day7. Application Generative Model
+#### 1) PixelCNN [original code](https://github.com/pilipolio/learn-pytorch)
+#### 2) Mixture Density Network [original code](https://github.com/hardmaru/pytorch_notebooks)
+
