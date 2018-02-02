@@ -31,3 +31,4 @@
 #### 1) PixelCNN [original code](https://github.com/pilipolio/learn-pytorch)
 #### 2) Mixture Density Network [original code](https://github.com/hardmaru/pytorch_notebooks)
 
+## Day8. infoGAN with Classification
