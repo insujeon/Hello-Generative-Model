@@ -14,5 +14,4 @@
 
 #### 1) Variational Coin Toss - [related blog](http://www.openias.org/variational-coin-toss)
 #### 2) MNIST classification with Probabilistic (Layer) Neural Network
-#### 3) AutoEncoder, Varitional AutoEncoder - [code](https://github.com/
-GunhoChoi/PyTorch-FastCampus/tree/master/08_Autoencoder)
+#### 3) AutoEncoder, Varitional AutoEncoder - [code](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/08_Autoencoder)
