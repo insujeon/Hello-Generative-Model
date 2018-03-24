@@ -17,4 +17,7 @@
 
 
 ## Day3. Introduction to Varitional Auto-Encoder(VAE)
-#### 1) AutoEncoder, Varitional AutoEncoder - [code](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/08_Autoencoder)
+#### 1) AutoEncoder
+#### 2) Varitional AutoEncoder - [code](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/08_Autoencoder)
+#### 3) CVAE
+
