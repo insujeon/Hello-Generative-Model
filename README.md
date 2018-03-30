@@ -22,6 +22,6 @@
 #### 3) CVAE
 
 
-## Dayr43. Introduction to Generative Adversarial Networks(GAN)
+## Dayr4. Introduction to Generative Adversarial Networks(GAN)
 #### 1) GAN
 #### 2) DCGAN
