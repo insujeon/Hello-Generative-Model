@@ -21,3 +21,7 @@
 #### 2) Varitional AutoEncoder - [code](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/08_Autoencoder)
 #### 3) CVAE
 
+
+## Dayr43. Introduction to Generative Adversarial Networks(GAN)
+#### 1) GAN
+#### 2) DCGAN
