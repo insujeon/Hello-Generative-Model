@@ -22,6 +22,17 @@
 #### 3) CVAE
 
 
-## Dayr4. Introduction to Generative Adversarial Networks(GAN)
+## Day4. Introduction to Generative Adversarial Networks(GAN)
 #### 1) GAN
 #### 2) DCGAN
+
+
+## Day5. Improved GAN
+#### 1) infoGAN
+#### 2) WGAN
+#### 3) CVAE (Optional)
+#### 4) AAE (Optional)
+#### Checkout Other Generative Model Collections [Here](https://github.com/znxlwm/pytorch-generative-model-collections)
+
+
+
