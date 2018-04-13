@@ -30,9 +30,10 @@
 ## Day5. Improved GAN
 #### 1) infoGAN
 #### 2) WGAN
-#### 3) CVAE (Optional)
-#### 4) AAE (Optional)
 #### Checkout Other Generative Model Collections [Here](https://github.com/znxlwm/pytorch-generative-model-collections)
 
 
-
+## Day6. Application Generative Model
+#### 1) CVAE
+#### 2) AAE
+#### 1) CycleGAN [original code](https://github.com/togheppi/CycleGAN)
