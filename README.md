@@ -36,4 +36,4 @@
 ## Day6. Application Generative Model
 #### 1) CVAE
 #### 2) AAE
-#### 1) CycleGAN [original code](https://github.com/togheppi/CycleGAN)
+#### 3) CycleGAN [Original code](https://github.com/togheppi/CycleGAN)
