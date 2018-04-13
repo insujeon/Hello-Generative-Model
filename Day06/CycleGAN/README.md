@@ -1,12 +1,14 @@
-[   ]	ae_photos.zip	2017-04-03 22:06	10M
-[   ]	apple2orange.zip	2017-03-28 13:51	75M
-[   ]	cezanne2photo.zip	2017-03-28 13:51	267M
-[   ]	cityscapes.zip	2017-03-29 03:22	267M
-[   ]	facades.zip	2017-03-29 23:23	34M
-[   ]	horse2zebra.zip	2017-03-28 13:51	111M
-[   ]	iphone2dslr_flower.zip	2017-03-30 12:05	324M
-[   ]	maps.zip	2017-03-26 19:17	1.4G
-[   ]	monet2photo.zip	2017-03-26 19:17	291M
-[   ]	summer2winter_yosemi..>	2017-03-26 19:17	126M
-[   ]	ukiyoe2photo.zip	2017-03-26 19:17	279M
-[   ]	vangogh2photo.zip	2017-03-26 19:17	292M
+
+### List of Datasets
+- ae_photos
+- apple2orange
+- cezanne2photo
+- cityscapes
+- facades
+- horse2zebra
+- iphone2dslr_flower
+- maps
+- monet2photo
+- summer2winter_yosemi
+- ukiyoe2photo
+- vangogh2photo
