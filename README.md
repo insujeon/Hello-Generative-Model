@@ -33,7 +33,12 @@
 #### Checkout Other Generative Model Collections [Here](https://github.com/znxlwm/pytorch-generative-model-collections)
 
 
-## Day6. Application Generative Model
+## Day6. Application of Deep Generative Model
 #### 1) CVAE
 #### 2) AAE
 #### 3) CycleGAN [Original code](https://github.com/togheppi/CycleGAN)
+
+## Day7. Other Important Deep Generative Model
+#### 1) PixelCNN [original code](https://github.com/pilipolio/learn-pytorch)
+#### 2) Mixture Density Network [original code](https://github.com/hardmaru/pytorch_notebooks)
+
