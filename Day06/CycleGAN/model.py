@@ -112,11 +112,11 @@ class Generator(torch.nn.Module):
     def normal_weight_init(self, mean=0.0, std=0.02):
         for m in self.children():
             if isinstance(m, ConvBlock):
-                torch.nn.init.normal(m.conv.weight, mean, std)
+                torch.nn.init.normal_(m.conv.weight, mean, std)
             if isinstance(m, DeconvBlock):
-                torch.nn.init.normal(m.deconv.weight, mean, std)
+                torch.nn.init.normal_(m.deconv.weight, mean, std)
             if isinstance(m, ResnetBlock):
-                torch.nn.init.normal(m.conv.weight, mean, std)
+                torch.nn.init.normal_(m.conv.weight, mean, std)
                 torch.nn.init.constant(m.conv.bias, 0)
 
 
@@ -145,4 +145,4 @@ class Discriminator(torch.nn.Module):
     def normal_weight_init(self, mean=0.0, std=0.02):
         for m in self.children():
             if isinstance(m, ConvBlock):
-                torch.nn.init.normal(m.conv.weight, mean, std)
+                torch.nn.init.normal_(m.conv.weight, mean, std)
