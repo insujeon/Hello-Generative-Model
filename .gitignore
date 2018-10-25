@@ -17,3 +17,9 @@ workroom
 *_model
 *_results
 
+horse2zebra
+horse2zebra/testA
+horse2zebra/testB
+horse2zebra/trainA
+horse2zebra/trainB
+download_horse2zebra.sh
